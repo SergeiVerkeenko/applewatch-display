@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.wrapper {
+    box-sizing: border-box;
+    width: 600px;
+    height: 700px;
+    background: #222222;
+    border: 10px solid #828282;
+    border-radius: 50px;
+
+    h2 {
+        width: 100px;
+        height: 39px;
+        font-size: 30px;
+        line-height: 39px;
+        color: #FFFFFF;
+        margin-left: 80%;
+        margin-top: 5%;
+    }
+
+    p {
+        width: 102px;
+        height: 26px;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-top: 5%;
+        margin-left: 45%;
+    }
+}
+
+.display {
+    background-image: url(./img/Mask\ group.svg);
+    width: 472px;
+    height: 472px;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 5%;
+}
+
+
+
+.line {
+    width: 230px;
+    height: 10px;
+    background: #FFFFFF;
+    border-radius: 1px;
+    margin-left: 30%;
+    margin-top: 3%;
+}
